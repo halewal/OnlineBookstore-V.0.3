@@ -1,2 +1,5 @@
 # OnlineBookstore-V.0.3
-The third version of an Online Bookstore. Not much change from version 0.2, tried to fix search bar, unsuccessfully.
+Online Bookstore Version 0.3:
+Changelog:
+- Tried to fix search bar unsuccessfully.
+- Login and Signup pages, however currently empty.
